@@ -1,9 +1,15 @@
-# 📘 Java Projects Collection
+# ☕ Java Practice
 
-This repository contains a collection of **Java practice exercises, OOP implementations, JavaFX applications, and mini-projects**. It is organized into two main sections:
+> ✍️ Created by **Mohammed Samara**
+
+![Java](https://img.shields.io/badge/language-Java-ED8B00?logo=openjdk&logoColor=white)
+
+This repository contains a collection of **Java practice exercises, OOP implementations, and mini-projects**. It is organized into these sections:
 
 - 🧠 **Basics** – Fundamental Java concepts  
-- 🧩 **OOP & Projects** – Object-Oriented Programming, JavaFX applications, and real-world mini systems  
+- 🧩 **OOP** – Object-Oriented Programming principles
+- 🏥 **Projects** – Bigger systems like the Clinic System
+- 🔧 **Mini Projects** – Small applications
 
 ---
 
@@ -87,4 +93,16 @@ Focuses on core OOP principles:
 ## Notes
 - These projects were created for practice, learning, and academic work.
 - Some projects are complete, while a few are simple exercises or small demonstrations of specific Java concepts.
-- The focus of this repository is to present my progress in Java, OOP, file handling, and GUI development.
+- The focus of this repository is to present my progress in Java, OOP, and file handling.
+
+---
+
+## ▶️ How to Run
+
+Open the folder in an IDE (IntelliJ, Eclipse or VS Code) and run the class that has `main()`.
+
+For a single file, Java 11+ can run it directly:
+
+```bash
+java basics/math/Prime.java
+```
